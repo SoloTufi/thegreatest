@@ -115,7 +115,7 @@ header {
    display: flex;
    width: 61.5%;
    height: 95.3%;
-   background-image: url(/images/bg.jpg);
+   background-image: url(bg.jpg);
    background-repeat: no-repeat;
 }
 
